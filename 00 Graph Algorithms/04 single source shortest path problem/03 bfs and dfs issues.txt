@@ -1,0 +1,5 @@
+Why does BFS not work with weighted Graph?
+https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/learn/lecture/22109330#overview
+
+Why does DFS not work for SSSP?
+https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/learn/lecture/22109538#overview

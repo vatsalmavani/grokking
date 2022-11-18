@@ -1,0 +1,6 @@
+finding median:
+
+the idea is to keep track of the two middle values of the given input
+maxHeap will store the first half of the data
+minHeap will store the second half of the data
+Hence, maxheap will return the first middle value maxHeap[0] and minHeap will return the secondd middle value minHeap[0]

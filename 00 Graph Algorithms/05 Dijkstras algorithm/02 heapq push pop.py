@@ -1,0 +1,20 @@
+from heapq import *
+
+heap = []
+heappush(heap, [1, 20])
+heappush(heap, [3, 60])
+heappush(heap, [10, 20])
+heappush(heap, [20, 10])
+heappush(heap, [2, 10])
+heappush(heap, [4, 80])
+heappush(heap, [40, 80])
+heappush(heap, [30, 60])
+heappush(heap, [20, 60])
+print(heap)
+print(heappop(heap))
+print(heap)
+print(heappop(heap))
+print(heap)
+print(heappop(heap))
+print(heap)
+print(heappop(heap))
